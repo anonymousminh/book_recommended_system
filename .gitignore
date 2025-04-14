@@ -1,0 +1,13 @@
+# Data files
+*.csv
+tagged_description.txt
+
+# Environment and secrets
+.env
+
+# Python artifacts
+__pycache__/
+.ipynb_checkpoints/
+
+# Vector database
+.chroma/
